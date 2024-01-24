@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ef23a63.css",
-    "main.js": "/static/js/main.1e05404a.js",
-    "static/js/988.e2feb59d.chunk.js": "/static/js/988.e2feb59d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.7ef23a63.css.map": "/static/css/main.7ef23a63.css.map",
-    "main.1e05404a.js.map": "/static/js/main.1e05404a.js.map",
-    "988.e2feb59d.chunk.js.map": "/static/js/988.e2feb59d.chunk.js.map"
+    "main.css": "/Textutils-tushar/static/css/main.7ef23a63.css",
+    "main.js": "/Textutils-tushar/static/js/main.845571ca.js",
+    "static/js/988.e2feb59d.chunk.js": "/Textutils-tushar/static/js/988.e2feb59d.chunk.js",
+    "static/media/logo.svg": "/Textutils-tushar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Textutils-tushar/index.html",
+    "main.7ef23a63.css.map": "/Textutils-tushar/static/css/main.7ef23a63.css.map",
+    "main.845571ca.js.map": "/Textutils-tushar/static/js/main.845571ca.js.map",
+    "988.e2feb59d.chunk.js.map": "/Textutils-tushar/static/js/988.e2feb59d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef23a63.css",
-    "static/js/main.1e05404a.js"
+    "static/js/main.845571ca.js"
   ]
 }
